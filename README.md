@@ -96,8 +96,3 @@ The script will:
 - Modify `deduplicate_data()` to customize how duplicate records are handled.
 - Extend `looks_to_transfer` to include more Looks.
 - Schedule the script using a cron job or Google Cloud Functions for automation.
-
----
-
-## Contact & Support
-For any issues, reach out to your Looker admin or check the [Looker API Documentation](https://cloud.google.com/looker/docs/api-intro).
